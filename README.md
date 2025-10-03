@@ -14,4 +14,5 @@ Real-time Data: Fetches current temperature, humidity, and wind speed.
 ->Reliable Assets: Images are sourced directly via a public path (images/filename.png) for robust deployment on platforms like GitHub Pages and Netlify.
 
 ->Error Handling: Displays clear messages for invalid city names or network issues
+
 live demo link:https://celadon-naiad-a25695.netlify.app/
